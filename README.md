@@ -9,4 +9,6 @@ A few changes were made to the index.html as well as the style sheet. Some of th
 
 2. Comments on style or html changes 
 
-3. 
+3. Telling the main body and navbar to stack vertically in a column
+
+4. Consolidation of classes (unsure as if it is correct, but I do believe how it was before I reorganized it was correct)
